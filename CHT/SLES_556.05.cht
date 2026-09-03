@@ -1,0 +1,10 @@
+"Naruto Shippuden - UN 5 /ID SLES_556.05"
+Mastercode
+90161e10 0c05872c
+
+
+// Widescreen Hack (16:9) by ElHecht
+
+// 16:9
+20b3ef14 3f400000 // 3F800000 X-Axis
+//20b3ef18 3f800000 // 3F800000 Y-Axis
